@@ -5,7 +5,7 @@ Bjarne Stroustrup;
 Programowanie obiektowe w PHP 5; 
 Hasin Hayder; 
 9788324618217; 
-4
+3
 Programowanie funkcyjne z JavaScriptem. Sposoby na lepszy kod; 
 Luis Atencio; 
 9788328332539; 
