@@ -1,0 +1,40 @@
+Programowanie. Teoria i praktyka z wykorzystaniem C++. Wydanie III; 
+Bjarne Stroustrup; 
+9788328363120; 
+2
+Programowanie obiektowe w PHP 5; 
+Hasin Hayder; 
+9788324618217; 
+4
+Programowanie funkcyjne z JavaScriptem. Sposoby na lepszy kod; 
+Luis Atencio; 
+9788328332539; 
+5
+Programowanie zorientowane obiektowo;  
+Bertrand Meyer; 
+8373617388007; 
+1
+Programowanie dla poczatkujacych; 
+Mark Lassoff; 
+9788328319080; 
+5
+Programowanie w jezyku R. Analiza danych, obliczenia, symulacje; 
+Marek Gagolewski; 
+9788301174613; 
+2
+Programowanie strukturalne i obiektowe. Podrecznik do nauki zawodu technik informatyk; 
+Adam Majczak; 
+9788324623891; 
+1
+Programowanie Windows; 
+Charles Petzold; 
+8387216909665; 
+7
+Programowanie serwera Oracle 11g SQL i PL/SQL; 
+Adam Pelikant; 
+9788324646067; 
+2
+Zrozumiec programowanie; 
+Gynvael Coldwind; 
+9788301182021; 
+8
